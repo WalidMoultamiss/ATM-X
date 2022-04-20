@@ -24,7 +24,6 @@ ATM-X
 
 ![image](https://user-images.githubusercontent.com/77829205/164158345-a1bcf819-5ff0-416e-9798-9cad54643d0b.png)
 
-
 ## Backend NodeJS GraphQL MongoDB Redis TypeScript
 
 ![image](https://user-images.githubusercontent.com/77829205/164158646-d673093a-6dd7-47df-a018-d4eb2a6a7b1f.png)

@@ -1,4 +1,3 @@
-import questions from "../questions.json";
 import { useEffect, useState } from "react";
 import { useAppDispatch } from "../app/hooks";
 import { updateScore } from "../app/slices/index";
