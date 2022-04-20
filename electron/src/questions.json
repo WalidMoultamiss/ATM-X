@@ -1,0 +1,257 @@
+[
+  {
+    "question": "You approach a crossing and see the scene in the picture. You should:?",
+    "answerOptions": [
+      {
+        "answer": "A. Stop and wait for the children until your lane is clear.",
+        "isCorrect": false
+      },
+      {
+        "answer": "B. Slow down and stop until the supervisor takes down the sign.",
+        "isCorrect": false
+      },
+      {
+        "answer": "C. Slow down and drive through giving way to the children.",
+        "isCorrect": true
+      },
+      {
+        "answer": "D. Slow down and drive through giving way to the children.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What does this sign mean?",
+    "image": "https://www.driverknowledgetests.com/images/question-images/si014-signs.gif",
+    "answerOptions": [
+      {
+        "answer": "A. You must not drive faster than 100 km/h.",
+        "isCorrect": true
+      },
+      {
+        "answer": "B. You must drive faster than 100 km/h.",
+        "isCorrect": false
+      },
+      {
+        "answer": "C. The sign applies to truck drivers only, cars can travel at any",
+        "isCorrect": false
+      },
+      {
+        "answer": "D. The sign applies to truck drivers only, cars can travel at any",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "At night, if an oncoming vehicle's headlights dazzle you, you should:",
+    "answerOptions": [
+      {
+        "answer": "A. Close your eyes for a short time until they recover.",
+        "isCorrect": false
+      },
+      {
+        "answer": "B. Watch the centre line of the road.",
+        "isCorrect": false
+      },
+      {
+        "answer": "C. Slow down, until your eyes recover.",
+        "isCorrect": true
+      },
+      {
+        "answer": "D. Watch the centre line of the road.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "As you approach an intersection with traffic lights, the yellow light turns to red. You must:",
+    "answerOptions": [
+      {
+        "answer": "A. Sound your horn and proceed through the red light.",
+        "isCorrect": false
+      },
+      {
+        "answer": "B. Speed up to avoid traffic from the left and right.",
+        "isCorrect": false
+      },
+      {
+        "answer": "C. Stop and wait for the green light.",
+        "isCorrect": false
+      },
+      {
+        "answer": "D. Speed up to avoid traffic from the left and right.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "You approach a crossing and see the scene in the picture. You should:?",
+    "answerOptions": [
+      {
+        "answer": "A. Stop and wait for the children until your lane is clear.",
+        "isCorrect": false
+      },
+      {
+        "answer": "B. Slow down and stop until the supervisor takes down the sign.",
+        "isCorrect": false
+      },
+      {
+        "answer": "C. Slow down and drive through giving way to the children.",
+        "isCorrect": false
+      },
+      {
+        "answer": "D. Slow down and drive through giving way to the children.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "question": "What does this sign mean?",
+    "image": "https://www.driverknowledgetests.com/images/question-images/si014-signs.gif",
+    "answerOptions": [
+      {
+        "answer": "A. You must not drive faster than 100 km/h.",
+        "isCorrect": true
+      },
+      {
+        "answer": "B. You must drive faster than 100 km/h.",
+        "isCorrect": false
+      },
+      {
+        "answer": "C. The sign applies to truck drivers only, cars can travel at any",
+        "isCorrect": false
+      },
+      {
+        "answer": "D. The sign applies to truck drivers only, cars can travel at any",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "At night, if an oncoming vehicle's headlights dazzle you, you should:",
+    "answerOptions": [
+      {
+        "answer": "A. Close your eyes for a short time until they recover.",
+        "isCorrect": false
+      },
+      {
+        "answer": "B. Watch the centre line of the road.",
+        "isCorrect": false
+      },
+      {
+        "answer": "C. Slow down, until your eyes recover.",
+        "isCorrect": true
+      },
+      {
+        "answer": "D. Watch the centre line of the road.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "As you approach an intersection with traffic lights, the yellow light turns to red. You must:",
+    "answerOptions": [
+      {
+        "answer": "A. Sound your horn and proceed through the red light.",
+        "isCorrect": false
+      },
+      {
+        "answer": "B. Speed up to avoid traffic from the left and right.",
+        "isCorrect": false
+      },
+      {
+        "answer": "C. Stop and wait for the green light.",
+        "isCorrect": true
+      },
+      {
+        "answer": "D. Speed up to avoid traffic from the left and right.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "You approach a crossing and see the scene in the picture. You should:?",
+    "answerOptions": [
+      {
+        "answer": "A. Stop and wait for the children until your lane is clear.",
+        "isCorrect": false
+      },
+      {
+        "answer": "B. Slow down and stop until the supervisor takes down the sign.",
+        "isCorrect": false
+      },
+      {
+        "answer": "C. Slow down and drive through giving way to the children.",
+        "isCorrect": true
+      },
+      {
+        "answer": "D. Slow down and drive through giving way to the children.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "What does this sign mean?",
+    "image": "https://www.driverknowledgetests.com/images/question-images/si014-signs.gif",
+    "answerOptions": [
+      {
+        "answer": "A. You must not drive faster than 100 km/h.",
+        "isCorrect": true
+      },
+      {
+        "answer": "B. You must drive faster than 100 km/h.",
+        "isCorrect": false
+      },
+      {
+        "answer": "C. The sign applies to truck drivers only, cars can travel at any",
+        "isCorrect": false
+      },
+      {
+        "answer": "D. The sign applies to truck drivers only, cars can travel at any",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "At night, if an oncoming vehicle's headlights dazzle you, you should:",
+    "answerOptions": [
+      {
+        "answer": "A. Close your eyes for a short time until they recover.",
+        "isCorrect": false
+      },
+      {
+        "answer": "B. Watch the centre line of the road.",
+        "isCorrect": false
+      },
+      {
+        "answer": "C. Slow down, until your eyes recover.",
+        "isCorrect": true
+      },
+      {
+        "answer": "D. Watch the centre line of the road.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "question": "As you approach an intersection with traffic lights, the yellow light turns to red. You must:",
+    "answerOptions": [
+      {
+        "answer": "A. Sound your horn and proceed through the red light.",
+        "isCorrect": false
+      },
+      {
+        "answer": "B. Speed up to avoid traffic from the left and right.",
+        "isCorrect": false
+      },
+      {
+        "answer": "C. Stop and wait for the green light.",
+        "isCorrect": true
+      },
+      {
+        "answer": "D. Speed up to avoid traffic from the left and right.",
+        "isCorrect": false
+      }
+    ]
+  }
+]

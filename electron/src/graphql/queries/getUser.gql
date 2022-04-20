@@ -1,0 +1,10 @@
+mutation getUser($input: LoginInput) {
+  login(input: $input) {
+    id
+    name
+    visa
+    balance
+    token
+    createdAt
+  }
+}

@@ -1,0 +1,9 @@
+mutation UpdateBalance($updateBalanceId: ID!, $input: balanceInput) {
+  updateBalance(id: $updateBalanceId, input: $input) {
+    id
+    name
+    visa
+    code
+    balance
+  }
+}
