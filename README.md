@@ -1,5 +1,5 @@
-<p align="center">
-# ATM-X
+<p align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5;">
+ATM-X
 </p>
 
 <p align="center">
