@@ -89,7 +89,7 @@ export const Landing = () => {
 
           <input
             value={cardCode}
-            type="text"
+            type="password"
             autoFocus
             max={4}
             style={{
