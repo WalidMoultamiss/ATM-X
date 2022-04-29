@@ -28,3 +28,7 @@ ATM-X
 ## Backend NodeJS GraphQL MongoDB Redis TypeScript
 
 ![image](https://user-images.githubusercontent.com/77829205/164158646-d673093a-6dd7-47df-a018-d4eb2a6a7b1f.png)
+
+
+### Trello link :
+https://trello.com/b/TI30ZHf7/gab-trello
